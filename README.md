@@ -2,7 +2,7 @@
 Beta testing (New) programing language based on python
 
 
-inside of .rk file,
+inside of .rk file
 python,
 c,
 c++,
