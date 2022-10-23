@@ -1,0 +1,13 @@
+Fun Abs(Num)
+    Var Tmp = []
+    If Num >= 0 Then
+        Return Num    
+    End
+
+    For i = Num To 0 Then
+        Append(Tmp, i)
+    End
+
+    Return Len(Tmp)
+End
+

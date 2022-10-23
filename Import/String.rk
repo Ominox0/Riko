@@ -1,0 +1,23 @@
+Fun oopify(prefix) -> prefix + "oop"
+
+Fun join(elements, separator)
+	Var result = ""
+	Var len = Len(elements)
+
+	For i = 0 To len Then
+		Var result = result + elements/i
+		If i != len - 1 Then Var result = result + separator
+	End
+
+	Return result
+End
+
+Fun map(elements, func)
+	Var new_elements = []
+
+	For i = 0 To Len(elements) Then
+		Append(new_elements, func(elements/i))
+	End
+
+	Return new_elements
+End
