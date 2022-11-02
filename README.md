@@ -42,5 +42,26 @@ Update:
     Write(File name, Mod <"text" or "byte">, content)
     #Returns Null
 
-
+# How do you use riko
+it is easy
+<h3>Key Words</h3>
+[<br>
+  'Var',<br>
+  'And',<br>
+  'OR',<br>
+  'Not',<br>
+  'If',<br>
+  'Elif',<br>
+  'Else',<br>
+  'For',<br>
+  'To',<br>
+  'Step',<br>
+  'While',<br>
+  'Fun',<br>
+  'Then',<br>
+  'End',<br>
+  'Return',<br>
+  'Continue',<br>
+  'Break',<br>
+]
 inside of .rk file your can import : riko scripts [Later you will be able to import python to!]
