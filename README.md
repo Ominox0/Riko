@@ -64,4 +64,8 @@ it is easy
   'Continue',<br>
   'Break',<br>
 ]
+
+<h3>Build in functions</h3>
+[<br>
+]
 inside of .rk file your can import : riko scripts [Later you will be able to import python to!]
