@@ -6,19 +6,16 @@ Update:
   3 New build in functions:
   
   
-    #Random:
+    #Random
     Random(Max Number) -> Number
     
     
-    #Read:
+    #Read
     Read(File name, Mod <"text" or "byte">) -> String
     
     
-    #Write:
+    #Write
     Write(File name, Mod <"text" or "byte">, content) -> null
 
 
 inside of .rk file your can import : riko scripts [Later you will be able to import python to!]
-
-
-[.json are used for data storage]
