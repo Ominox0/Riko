@@ -9,8 +9,8 @@ click windows button on screen or on keyboard and type cmd)
 while you are in cmd type riko "FileName.rk"
 
 
-if you see *'riko' is not recognized as an internal or external command,
-operable program or batch file.*
+if you see **'riko' is not recognized as an internal or external command,
+operable program or batch file.**
 
 finde where riko is stored and copy full path
 go to environment variables
