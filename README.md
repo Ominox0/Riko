@@ -65,7 +65,24 @@ it is easy
   'Break',<br>
 ]
 
-<h3>Build in functions</h3>
+<h3>Build in functions/variables</h3>
 [<br>
+"print"
+print_ret
+input
+input_int
+clear
+is_number
+is_string
+is_list
+is_function
+append
+pop
+extend
+len
+run
+random
+read
+write
 ]
 inside of .rk file your can import : riko scripts [Later you will be able to import python to!]
