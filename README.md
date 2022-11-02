@@ -17,14 +17,14 @@ go to environment variables
 click path then new and type path to program.
 
 
-OR
+Or
 copy this in .bat file
 
 
     SET PATH=%PATH%;YOUR_PROGRAM_DIR_HERE
 
 Update:
-
+  bug fixed
   3 New build in functions:
   
   
@@ -46,43 +46,48 @@ Update:
 it is easy
 <h3>Key Words</h3>
 [<br>
-  'Var',<br>
-  'And',<br>
-  'OR',<br>
-  'Not',<br>
-  'If',<br>
-  'Elif',<br>
-  'Else',<br>
-  'For',<br>
-  'To',<br>
-  'Step',<br>
-  'While',<br>
-  'Fun',<br>
-  'Then',<br>
-  'End',<br>
-  'Return',<br>
-  'Continue',<br>
-  'Break',<br>
+  'var',<br>
+  'and',<br>
+  'or',<br>
+  'not',<br>
+  'if',<br>
+  'elif',<br>
+  'else',<br>
+  'for',<br>
+  'to',<br>
+  'step',<br>
+  'while',<br>
+  'fun',<br>
+  'then',<br>
+  'end',<br>
+  'return',<br>
+  'continue',<br>
+  'break',<br>
 ]
 
 <h3>Build in functions/variables</h3>
 [<br>
-"print"
-print_ret
-input
-input_int
-clear
-is_number
-is_string
-is_list
-is_function
-append
-pop
-extend
-len
-run
-random
-read
-write
+"print"<br>
+"print_ret"<br>
+"input"<br>
+"input_int"<br>
+"clear"<br>
+"is_number"<br>
+"is_string"<br>
+"is_list"<br>
+"is_function"<br>
+"append"<br>
+"pop"<br>
+"extend"<br>
+"len"<br>
+"run"<br>
+"random"<br>
+"read"<br>
+"write"<br>
+
+"true"<br>
+"false"<br>
+"null"<br>
+"math_pi"<br>
 ]
 inside of .rk file your can import : riko scripts [Later you will be able to import python to!]
