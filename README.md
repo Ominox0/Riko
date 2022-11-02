@@ -19,7 +19,9 @@ click path then new and type path to program.
 
 OR
 copy this in .bat file
-SET PATH=%PATH%;YOUR_PROGRAM_DIR_HERE
+
+
+    SET PATH=%PATH%;YOUR_PROGRAM_DIR_HERE
 
 Update:
 
