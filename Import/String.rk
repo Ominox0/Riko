@@ -1,5 +1,3 @@
-fun oopify(prefix) -> prefix + "oop"
-
 fun join(elements, separator)
 	var result = ""
 	var len = Len(elements)
