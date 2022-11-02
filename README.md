@@ -7,15 +7,18 @@ Update:
   
   
     #Random
-    Random(Max Number) -> Number
+    Random(Max Number)
+    #Returns Number
     
     
     #Read
-    Read(File name, Mod <"text" or "byte">) -> String
+    Read(File name, Mod <"text" or "byte">)
+    #Returns String
     
     
     #Write
-    Write(File name, Mod <"text" or "byte">, content) -> null
+    Write(File name, Mod <"text" or "byte">, content)
+    #Returns Null
 
 
 inside of .rk file your can import : riko scripts [Later you will be able to import python to!]
