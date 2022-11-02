@@ -11,3 +11,6 @@ Fun Abs(Num)
     Return Len(Tmp)
 End
 
+Fun Sqr(Num)
+    Return Num/2
+End
