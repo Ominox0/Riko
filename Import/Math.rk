@@ -1,16 +1,16 @@
-Fun Abs(Num)
-    Var Tmp = []
-    If Num >= 0 Then
-        Return Num    
-    End
+fun abs(Num)
+    var Tmp = []
+    if Num >= 0 then
+        return Num    
+    end
 
-    For i = Num To 0 Then
-        Append(Tmp, i)
-    End
+    for i = Num to 0 then
+        append(Tmp, i)
+    end
 
-    Return Len(Tmp)
-End
+    return len(Tmp)
+end
 
-Fun Sqr(Num)
-    Return Num/2
-End
+fun sqr(Num)
+    return Num/2
+end
