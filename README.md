@@ -26,7 +26,7 @@ copy this in .bat file
 <h2>Update logs:</h2><br>
   2 November 2022<br>
   bug fixed
-  <h5>3 New build in functions:<h5/>
+  <h5>3 New build in functions:</h5>
   
   
     #Random
