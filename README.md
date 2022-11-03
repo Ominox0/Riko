@@ -23,7 +23,7 @@ copy this in .bat file
 
     SET PATH=%PATH%;YOUR_PROGRAM_DIR_HERE
 
-Update logs:
+<h2>Update logs:</h2><br>
   2 November 2022<br>
   bug fixed
   3 New build in functions:
@@ -115,4 +115,3 @@ it is easy
 "null"<br>
 "math_pi"<br>
 ]
-inside of .rk file your can import : riko scripts [Later you will be able to import python to!]
