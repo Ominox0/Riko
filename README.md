@@ -31,19 +31,19 @@ Update logs:
   
     #Random
     Random(Max Number)
-    #Returns Number
+    #Returns number
     
     
     #Read
     Read(File name, Mod <"text" or "byte">)
-    #Returns String
+    #Returns string
     
     
     #Write
     Write(File name, Mod <"text" or "byte">, content)
-    #Returns Null
-  In this new update you can import/read/write in your files
+    #Returns null
   3 November 2022<br>
+  In this new update you can import/read/write in your files<br>
   4 New build in functions:
   
   
