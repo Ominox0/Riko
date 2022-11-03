@@ -23,7 +23,8 @@ copy this in .bat file
 
     SET PATH=%PATH%;YOUR_PROGRAM_DIR_HERE
 
-Update:
+Update logs:
+  2 November 2022<br>
   bug fixed
   3 New build in functions:
   
@@ -41,6 +42,18 @@ Update:
     #Write
     Write(File name, Mod <"text" or "byte">, content)
     #Returns Null
+  In this new update you can import/read/write in your files
+  3 November 2022<br>
+  2 New build in functions:
+  
+  
+    #Change directory
+    cdir(Dir)
+    #Returns null
+    
+    #gets the current selected directory
+    get_dir()
+    #Returns string
 
 # How do you use riko
 it is easy
