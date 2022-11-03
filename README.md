@@ -97,6 +97,8 @@ it is easy
 "random"<br>
 "read"<br>
 "write"<br>
+"cdir"<br>
+"get_dir"<br>
 
 "true"<br>
 "false"<br>
