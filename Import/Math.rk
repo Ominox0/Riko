@@ -10,7 +10,3 @@ fun abs(Num)
 
     return len(Tmp)
 end
-
-fun sqr(Num)
-    return Num/2
-end
