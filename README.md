@@ -24,7 +24,7 @@ copy this in .bat file
     SET PATH=%PATH%;YOUR_PROGRAM_DIR_HERE
 
 <h2>Update logs:</h2><br>
-  2 November 2022<br>
+  <h5>2 November 2022</h5><br>
   bug fixed
   <h5>3 New build in functions:</h5>
   
@@ -42,7 +42,7 @@ copy this in .bat file
     #Write
     Write(File name, Mod <"text" or "byte">, content)
     #Returns null
-  3 November 2022<br>
+  <h5>3 November 2022</h5><br>
   In this new update you can import/read/write in your files<br>
   <h5>4 New build in functions:<h5/>
   
