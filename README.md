@@ -44,7 +44,7 @@ Update logs:
     #Returns Null
   In this new update you can import/read/write in your files
   3 November 2022<br>
-  2 New build in functions:
+  4 New build in functions:
   
   
     #Change directory
@@ -54,6 +54,14 @@ Update logs:
     #gets the current selected directory
     get_dir()
     #Returns string
+    
+    #Delets file/folder/tree
+    delete(mod <"file", "dir" or "tree", dir/file>
+    #Rturns null
+    
+    #lists all files and folders in folder
+    listdir(dir)
+    #Returns list
 
 # How do you use riko
 it is easy
@@ -99,6 +107,8 @@ it is easy
 "write"<br>
 "cdir"<br>
 "get_dir"<br>
+"delete"<br>
+"listdir
 
 "true"<br>
 "false"<br>
