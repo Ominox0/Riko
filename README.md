@@ -9,8 +9,8 @@ click windows button on screen or on keyboard and type cmd)
 while you are in cmd type riko "FileName.rk"
 
 
-if you see **'riko' is not recognized as an internal or external command,
-operable program or batch file.**
+if you see "**'riko' is not recognized as an internal or external command,
+operable program or batch file.**"
 
 finde where riko is stored and copy full path
 go to environment variables
@@ -26,7 +26,7 @@ copy this in .bat file
 <h2>Update logs:</h2><br>
   2 November 2022<br>
   bug fixed
-  3 New build in functions:
+  <h5>3 New build in functions:<h5/>
   
   
     #Random
@@ -44,7 +44,7 @@ copy this in .bat file
     #Returns null
   3 November 2022<br>
   In this new update you can import/read/write in your files<br>
-  4 New build in functions:
+  <h5>4 New build in functions:<h5/>
   
   
     #Change directory
