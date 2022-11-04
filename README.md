@@ -152,7 +152,17 @@ it is easy
 "cdir"<br>
 "get_dir"<br>
 "delete"<br>
-"listdir
+"listdir<br>
+
+"get_index<br>
+"edit_index<br>
+"GuiMake<br>
+"GuiConfig<br>
+"GuiMainloop<br>
+"str<br>
+"int<br>
+"float<br>
+"bool<br>
 
 "true"<br>
 "false"<br>
