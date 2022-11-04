@@ -49,7 +49,7 @@ you can start program like this(in cmd)
     #Returns null
   <h5>3 November 2022</h5><br>
   In this new update you can import/read/write in your files<br>
-  <h5>4 New build in functions:<h5/>
+  <h5>4 New build in functions:</h5>
   
   
     #Change directory
@@ -67,6 +67,46 @@ you can start program like this(in cmd)
     #lists all files and folders in folder
     listdir(dir)
     #Returns list
+  <h5>4 November 2022</h5><br>
+  Removed 1 build in function (input_int)<br>
+  <h5>9 New build in functions:</h5>
+  
+  
+    #Get content of list by index
+    get_index(list, index)
+    #Returns obj
+    
+    #Edits list content
+    edit_index(list, index, value)
+    #Returns null
+    
+    #Makes object for gui use
+    GuiMake(id, type <"root", "label", "button", "entry", "text", "list">)
+    #Returns null
+    
+    #Configs object of gui !!!-{This function is not 100% done}-!!!
+    GuiConfig(id, setting, value)
+    #Returns null
+    
+    #Starts mainloop of gui
+    GuiMainloop()
+    #Returns null
+    
+    #int
+    int(Obj)
+    #Returns intiger
+    
+    #str
+    str(Obj)
+    #Returns string
+    
+    #bool
+    bool(Obj)
+    #Returns bool
+    
+    #float
+    float(Obj)
+    #Returns float
 
 # How do you use riko
 it is easy
@@ -96,7 +136,6 @@ it is easy
 "print"<br>
 "print_ret"<br>
 "input"<br>
-"input_int"<br>
 "clear"<br>
 "is_number"<br>
 "is_string"<br>
