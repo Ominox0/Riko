@@ -24,7 +24,9 @@ copy this in .bat file
     SET PATH=%PATH%;YOUR_PROGRAM_DIR_HERE
 
 Now when you have it in you path
-you can start program like this(in cmd)<br>
+you can start program like this(in cmd)
+
+
     riko "Filename"
 <h2>Update logs:</h2><br>
   <h5>2 November 2022</h5><br>
