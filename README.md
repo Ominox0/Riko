@@ -110,7 +110,7 @@ you can start program like this(in cmd)
     
     
   <h5>8 November 2022</h5><br>
-  Removed 1 build in function (input_int)<br>
+  Improved function GuiConfig<br>
   <h5>5 New build in functions:</h5>
     
     
