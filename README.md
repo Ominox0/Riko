@@ -107,6 +107,32 @@ you can start program like this(in cmd)
     #float
     float(Obj)
     #Returns float
+    
+    
+  <h5>8 November 2022</h5><br>
+  Removed 1 build in function (input_int)<br>
+  <h5>5 New build in functions:</h5>
+    
+    
+    #Makes Image
+    image(Id type, size_X, size_Y FillColor)
+    #Returns null
+    
+    #Puts pixel of int color in image
+    image_putpixel(id, X, Y, color)
+    #Returns null
+    
+    #Saves image
+    image_save(id, File name)
+    #Returns null
+    
+    #Makes thread in main thread
+    thread(function, args)
+    #Returns null
+    
+    #Removes all errors while runinng that function
+    pcall(function, args)
+    #Returns null
 
 # How do you use riko
 it is easy
@@ -162,6 +188,11 @@ it is easy
 "int"<br>
 "float"<br>
 "bool"<br>
+"image"<br>
+"image_putpixel"<br>
+"image_save"<br>
+"thread"<br>
+"pcall"<br>
 
 "true"<br>
 "false"<br>
