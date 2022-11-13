@@ -170,6 +170,7 @@ it is easy
   'return',<br>
   'continue',<br>
   'break',<br>
+  'class',<br>
 ]
 
 <h3>Build in functions/variables</h3>
