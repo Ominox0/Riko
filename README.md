@@ -195,7 +195,7 @@ it is easy
 "get_dir"<br>
 "delete"<br>
 "listdir"<br>
-"get_index"<br>
+"replace"<br>
 "edit_index"<br>
 "GuiMake"<br>
 "GuiConfig"<br>
