@@ -133,6 +133,21 @@ you can start program like this(in cmd)
     #Removes all errors while runinng that function
     pcall(function, args)
     #Returns null
+    
+    
+  <h5>13 November 2022</h5><br>
+  replaced function get_index with replace<br>
+  New keyword!!!<br>
+  <h5>CLASS</h5>
+  
+  
+    class name ():
+      fun init(args):
+        print(args)
+      end
+    end
+    
+    name("Value")
 
 # How do you use riko
 it is easy
