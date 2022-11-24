@@ -152,7 +152,12 @@ you can start program like this(in cmd)
     
   <h5>24 November 2022</h5><br>
   math_pi -> pi<br>
-  fixed the way riko is reading your file dir
+  fixed the way riko is reading your file dir<br>
+  and added experimental trs.json (translate.json)
+  This file is used to modify original key words
+  if you want to modify keywords paste new trs.json file in same dir as your program<br>
+  open the trs.json file and you can modify keywords there<br>
+  Happy coding<br>
   <h5>______</h5>
 
 # How do you use riko
