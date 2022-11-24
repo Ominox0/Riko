@@ -148,6 +148,12 @@ you can start program like this(in cmd)
     end
     
     name("Value")
+    
+    
+  <h5>24 November 2022</h5><br>
+  math_pi -> pi<br>
+  fixed the way riko is reading your file dir
+  <h5>______</h5>
 
 # How do you use riko
 it is easy
@@ -213,5 +219,5 @@ it is easy
 "true"<br>
 "false"<br>
 "null"<br>
-"math_pi"<br>
+"pi"<br>
 ]
