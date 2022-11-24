@@ -1,0 +1,20 @@
+{
+  "var":"var",
+  "and":"and",
+  "or":"or",
+  "not":"not",
+  "if":"if",
+  "elif":"elif",
+  "else":"else",
+  "for":"for",
+  "to":"to",
+  "step":"step",
+  "while":"while",
+  "fun":"fun",
+  "then":"then",
+  "end":"end",
+  "return":"return",
+  "continue":"continue",
+  "break":"break",
+  "class":"class"
+}
