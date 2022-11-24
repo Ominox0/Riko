@@ -61,7 +61,7 @@ you can start program like this(in cmd)
     #Returns string
     
     #Delets file/folder/tree
-    delete(mod <"file", "dir" or "tree", dir/file>
+    delete(mod <"file", "dir" or "tree", dir/file>)
     #Rturns null
     
     #lists all files and folders in folder
@@ -153,8 +153,11 @@ you can start program like this(in cmd)
   <h5>24 November 2022</h5><br>
   math_pi -> pi<br>
   fixed the way riko is reading your file dir<br>
-  and added experimental trs.json (translate.json)
-  This file is used to modify original key words
+  now you can put numbers like <br>
+  1000,00000 == 100000000 > true<br>
+  1000_000_00 == 1000,0,0__000 > true<br>
+  and added experimental trs.json (translate.json)<br>
+  This file is used to modify original key words<br>
   if you want to modify keywords paste new trs.json file in same dir as your program<br>
   open the trs.json file and you can modify keywords there<br>
   Happy coding<br>
