@@ -31,7 +31,7 @@ you can start program like this(in cmd)
 <h2>Update logs:</h2><br>
   <h5>2 November 2022</h5><br>
   bug fixed
-  <h5>3 New build in functions:</h5>
+  3 New build in functions:<br>
   
   
     #Random
@@ -49,7 +49,7 @@ you can start program like this(in cmd)
     #Returns null
   <h5>3 November 2022</h5><br>
   In this new update you can import/read/write in your files<br>
-  <h5>4 New build in functions:</h5>
+  4 New build in functions:<br>
   
   
     #Change directory
@@ -69,7 +69,7 @@ you can start program like this(in cmd)
     #Returns list
   <h5>4 November 2022</h5><br>
   Removed 1 build in function (input_int)<br>
-  <h5>9 New build in functions:</h5>
+  9 New build in functions:<br>
   
   
     #Get content of list by index
@@ -111,7 +111,7 @@ you can start program like this(in cmd)
     
   <h5>8 November 2022</h5><br>
   Improved function GuiConfig<br>
-  <h5>5 New build in functions:</h5>
+  5 New build in functions:<br>
     
     
     #Makes Image
@@ -138,7 +138,7 @@ you can start program like this(in cmd)
   <h5>13 November 2022</h5><br>
   replaced function get_index with replace<br>
   New keyword!!!<br>
-  <h5>CLASS</h5>
+  CLASS<br>
   
   
     class name ():
@@ -161,13 +161,13 @@ you can start program like this(in cmd)
   if you want to modify keywords paste new trs.json file in same dir as your program<br>
   open the trs.json file and you can modify keywords there<br>
   Happy coding<br>
-  <h5>______</h5>
+  ______<br>
   
   
   <h5>25 November 2022</h5><br>
   Fixed reading files on program start<br>
   and fixed reading trs.json<brd>
-  <h5>______</h5>
+  ______<br>
 
 # How do you use riko
 it is easy
