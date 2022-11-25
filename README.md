@@ -29,7 +29,7 @@ you can start program like this(in cmd)
 
     riko "Filename"
 <h2>Update logs:</h2><br>
-  <h5>2 November 2022</h5><br>
+  <h5>2  November 2022</h5><br>
   bug fixed
   3 New build in functions:<br>
   
@@ -47,7 +47,7 @@ you can start program like this(in cmd)
     #Write
     Write(File name, Mod <"text" or "byte">, content)
     #Returns null
-  <h5>3 November 2022</h5><br>
+  <h5>3  November 2022</h5><br>
   In this new update you can import/read/write in your files<br>
   4 New build in functions:<br>
   
@@ -67,7 +67,7 @@ you can start program like this(in cmd)
     #lists all files and folders in folder
     listdir(dir)
     #Returns list
-  <h5>4 November 2022</h5><br>
+  <h5>4  November 2022</h5><br>
   Removed 1 build in function (input_int)<br>
   9 New build in functions:<br>
   
@@ -109,7 +109,7 @@ you can start program like this(in cmd)
     #Returns float
     
     
-  <h5>8 November 2022</h5><br>
+  <h5>8  November 2022</h5><br>
   Improved function GuiConfig<br>
   5 New build in functions:<br>
     
