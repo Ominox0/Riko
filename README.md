@@ -162,6 +162,12 @@ you can start program like this(in cmd)
   open the trs.json file and you can modify keywords there<br>
   Happy coding<br>
   <h5>______</h5>
+  
+  
+  <h5>25 November 2022</h5><br>
+  Fixed reading files on program start<br>
+  and fixed reading trs.json<brd>
+  <h5>______</h5>
 
 # How do you use riko
 it is easy
