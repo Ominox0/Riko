@@ -166,7 +166,18 @@ you can start program like this(in cmd)
   
   <h5>25 November 2022</h5><br>
   Fixed reading files on program start<br>
-  and fixed reading trs.json<brd>
+  and fixed reading trs.json<br>
+  ______<br>
+  
+  
+  <h5>28 November 2022</h5><br>
+  One of bigger updates comming soon:<br>
+    you will be able to import:
+      -.py, <br>
+      -.lua, <br>
+      -.js, <br>
+      -c++<br>
+      -(in the plan are ruby and rust)<brd>
   ______<br>
 
 # How do you use riko
