@@ -177,7 +177,7 @@ you can start program like this(in cmd)
       -.lua, <br>
       -.js, <br>
       -c++<br>
-      -(in the plan are ruby and rust)<brd>
+      -(in the plan are ruby and rust)<br>
   ______<br>
 
 # How do you use riko
