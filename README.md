@@ -172,12 +172,12 @@ you can start program like this(in cmd)
   
   <h5>28 November 2022</h5><br>
   One of bigger updates comming soon:<br>
-    you will be able to import:
+    you will be able to import (for now):
       -.py, <br>
       -.lua, <br>
       -.js, <br>
       -c++<br>
-      -(in the plan are ruby and rust)<br>
+      -(in the plan are ruby, rust and java )<br>
   ______<br>
 
 # How do you use riko
