@@ -172,7 +172,7 @@ you can start program like this(in cmd)
   
   <h5>28 November 2022</h5><br>
   One of bigger updates comming soon:<br>
-    you will be able to import (for now):
+    you will be able to import (for now):<br>
       -.py, <br>
       -.lua, <br>
       -.js, <br>
